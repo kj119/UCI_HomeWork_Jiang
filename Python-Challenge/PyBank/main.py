@@ -11,6 +11,7 @@ with open(budget_csv, "r") as csvfile:
     total_months = 0
     net_total = 0
     profit_losses = []
+    dates = []
 
     for rows in csv_reader:
         
@@ -23,8 +24,42 @@ with open(budget_csv, "r") as csvfile:
         #creates list of profit/loss column
         profit_losses.append(int(rows[1]))
 
+        dates.append(rows[0])
+
     #calculates profit/loss difference per month
     monthly_diff = [profit_losses[value + 1] - profit_losses[value] for value in range(len(profit_losses)-1)]
+
+    #solution for average of changes in profit/loss over entire period
+    avg_chg_profitLoss = sum(monthly_diff) / (len(profit_losses)-1)
+    
+    max_monthly_diff = 0
+    min_monthly_diff = 0
+
+    max_date = ""
+    min_date = ""
+    
+    for date, values in zip(dates, monthly_diff):
+
+        #calculates greatest increase in profits over entire period
+        if values > max_monthly_diff:
+
+            max_monthly_diff = values
+
+            max_date = date
+
+        #calculates decrease in losses over entire period
+        elif values < min_monthly_diff:
+
+            min_monthly_diff = values
+
+            min_date = date
+
+    print(max_date)
+    print(max_monthly_diff)
+    print(min_date)
+    print(min_monthly_diff)
+    
+    
 
     
 
