@@ -51,9 +51,24 @@ with open(election_csv, "r") as csvfile:
     li_calc = li_count / total_votes
     otooley_calc = otooley_count / total_votes
 
+    #percentage formatting
     khan_percentage = "{:.0%}".format(khan_calc)
     correy_percentage = "{:.0%}".format(correy_calc)
     li_percentage = "{:.0%}".format(li_calc)
     otooley_percentage = "{:.0%}".format(otooley_calc)
 
-    print(khan_percentage, correy_percentage, li_percentage, otooley_percentage)
+    #creates list of total votes per candidate
+    candidate_votes = [khan_count, correy_count, li_count, otooley_count]
+
+    max_vote = 0
+
+    election_winner = ""
+
+    for candidate, votes in zip(candidate_list, candidate_votes):
+        #calculates winner of the election by popular vote
+        if votes > max_vote:
+
+            max_vote = votes
+
+            election_winner = candidate
+    
