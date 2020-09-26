@@ -11,6 +11,12 @@ with open(election_csv, "r") as csvfile:
     total_votes = 0
 
     candidate_list = []
+
+    khan_count = 0
+    correy_count = 0
+    li_count = 0
+    otooley_count = 0
+
     
     for row in csv_reader:
         
@@ -22,4 +28,32 @@ with open(election_csv, "r") as csvfile:
 
             candidate_list.append(row[2])
 
-    
+        #counts total votes for each candidate
+        if row[2] == "Khan":
+
+            khan_count = khan_count + 1
+
+        elif row[2] == "Correy":
+
+            correy_count = correy_count + 1
+
+        elif row[2] == "Li":
+
+            li_count = li_count + 1
+
+        elif row[2] == "O'Tooley":
+
+            otooley_count = otooley_count + 1
+
+    #percentage of votes per candidate
+    khan_calc = khan_count / total_votes
+    correy_calc = correy_count / total_votes
+    li_calc = li_count / total_votes
+    otooley_calc = otooley_count / total_votes
+
+    khan_percentage = "{:.0%}".format(khan_calc)
+    correy_percentage = "{:.0%}".format(correy_calc)
+    li_percentage = "{:.0%}".format(li_calc)
+    otooley_percentage = "{:.0%}".format(otooley_calc)
+
+    print(khan_percentage, correy_percentage, li_percentage, otooley_percentage)
