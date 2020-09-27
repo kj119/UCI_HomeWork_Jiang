@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 
 election_csv = os.path.join(r"..\..\uci-irv-data-pt-08-2020-u-c\02-Homework\03-Python\Instructions\PyPoll\Resources\election_data.csv")
 
@@ -72,7 +73,9 @@ with open(election_csv, "r") as csvfile:
 
             election_winner = candidate
 
-    #printing results
+    #exports print statements as txt file to Analysis folder in PyPoll
+    sys.stdout = open("PyPoll/Analysis/Analysis", "w")
+    #print analysis results
     print("Election Results")
     print("----------------------")
     print(f'Total Votes: {total_votes}')
