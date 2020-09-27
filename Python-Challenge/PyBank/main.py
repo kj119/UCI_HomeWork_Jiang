@@ -24,7 +24,8 @@ with open(budget_csv, "r") as csvfile:
         #creates list of profit/loss column
         profit_losses.append(int(rows[1]))
 
-        dates.append(rows[0])
+        if total_months > 1:
+            dates.append(rows[0])
 
     #calculates profit/loss difference per month
     monthly_diff = [profit_losses[value + 1] - profit_losses[value] for value in range(len(profit_losses)-1)]
@@ -54,10 +55,7 @@ with open(budget_csv, "r") as csvfile:
 
             min_date = date
 
-    print(max_date)
-    print(max_monthly_diff)
-    print(min_date)
-    print(min_monthly_diff)
+    print("Financial Analysis"
     
     
 
