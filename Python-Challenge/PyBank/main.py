@@ -55,10 +55,11 @@ with open(budget_csv, "r") as csvfile:
 
             min_date = date
 
-    print("Financial Analysis"
-    
-    
-
-    
-
+    print("Financial Analysis")
+    print("----------------------")
+    print(f'Total Months: {total_months}')
+    print(f'Total: {"${:,.2f}".format(net_total)}')
+    print(f'Average Change: {"${:,.2f}".format(avg_chg_profitLoss)}')
+    print(f'Greatest Increase in Profits: {max_date} ({"${:,.2f}".format(max_monthly_diff)})')
+    print(f'Greatest Decrease in Profits: {min_date} ({"${:,.2f}".format(min_monthly_diff)})')
     
