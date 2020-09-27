@@ -71,4 +71,16 @@ with open(election_csv, "r") as csvfile:
             max_vote = votes
 
             election_winner = candidate
-    
+
+    #printing results
+    print("Election Results")
+    print("----------------------")
+    print(f'Total Votes: {total_votes}')
+    print("----------------------")
+    print(f'Khan: {khan_percentage} ({khan_count})')
+    print(f'Correy: {correy_percentage} ({correy_count})')
+    print(f'Li: {li_percentage} ({li_count})')
+    print(f"O'Tooley: {otooley_percentage} ({otooley_count})")
+    print("----------------------")
+    print(f'Winner: {election_winner}')
+    print("----------------------")
