@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 
 budget_csv = os.path.join(r"..\..\uci-irv-data-pt-08-2020-u-c\02-Homework\03-Python\Instructions\PyBank\Resources\budget_data.csv")
 
@@ -55,6 +56,9 @@ with open(budget_csv, "r") as csvfile:
 
             min_date = date
 
+    #exports print statements as txt file to Analysis folder in PyBank
+    sys.stdout = open("PyBank/Analysis/Analysis", "w")
+    #print analysis results
     print("Financial Analysis")
     print("----------------------")
     print(f'Total Months: {total_months}')
