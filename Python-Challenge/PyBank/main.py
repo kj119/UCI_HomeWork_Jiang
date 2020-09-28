@@ -7,7 +7,8 @@ budget_csv = os.path.join(r"..\..\uci-irv-data-pt-08-2020-u-c\02-Homework\03-Pyt
 with open(budget_csv, "r") as csvfile:
     csv_reader = csv.reader(csvfile, delimiter = ",")
 
-    next(csv_reader)
+    #stores header row
+    header = next(csv_reader)
 
     total_months = 0
     net_total = 0

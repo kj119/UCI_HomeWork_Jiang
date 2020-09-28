@@ -7,7 +7,8 @@ election_csv = os.path.join(r"..\..\uci-irv-data-pt-08-2020-u-c\02-Homework\03-P
 with open(election_csv, "r") as csvfile:
     csv_reader = csv.reader(csvfile, delimiter = ",")
 
-    next(csv_reader)
+    #stores header row
+    header = next(csv_reader)
 
     total_votes = 0
 
