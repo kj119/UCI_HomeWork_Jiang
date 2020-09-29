@@ -74,9 +74,22 @@ with open(election_csv, "r") as csvfile:
 
             election_winner = candidate
 
+    #print analysis to terminal
+    print("Election Results")
+    print("----------------------")
+    print(f'Total Votes: {total_votes}')
+    print("----------------------")
+    print(f'Khan: {khan_percentage} ({khan_count})')
+    print(f'Correy: {correy_percentage} ({correy_count})')
+    print(f'Li: {li_percentage} ({li_count})')
+    print(f"O'Tooley: {otooley_percentage} ({otooley_count})")
+    print("----------------------")
+    print(f'Winner: {election_winner}')
+    print("----------------------")
+    
     #exports print statements as txt file to Analysis folder in PyPoll
     sys.stdout = open("PyPoll/Analysis/Analysis", "w")
-    #print analysis results
+    
     print("Election Results")
     print("----------------------")
     print(f'Total Votes: {total_votes}')

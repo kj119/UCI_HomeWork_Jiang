@@ -57,9 +57,18 @@ with open(budget_csv, "r") as csvfile:
 
             min_date = date
 
+    #print analysis results to terminal
+    print("Financial Analysis")
+    print("----------------------")
+    print(f'Total Months: {total_months}')
+    print(f'Total: {"${:,.2f}".format(net_total)}')
+    print(f'Average Change: {"${:,.2f}".format(avg_chg_profitLoss)}')
+    print(f'Greatest Increase in Profits: {max_date} ({"${:,.2f}".format(max_monthly_diff)})')
+    print(f'Greatest Decrease in Profits: {min_date} ({"${:,.2f}".format(min_monthly_diff)})')
+    
     #exports print statements as txt file to Analysis folder in PyBank
     sys.stdout = open("PyBank/Analysis/Analysis", "w")
-    #print analysis results
+    
     print("Financial Analysis")
     print("----------------------")
     print(f'Total Months: {total_months}')
