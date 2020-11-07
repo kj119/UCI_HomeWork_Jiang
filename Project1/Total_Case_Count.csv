@@ -1,0 +1,465 @@
+County,Month,TotalCountConfirmed,TotalCountDeaths,Date
+Alameda,March,269.0,7.0,2020-03-31
+Alameda,April,1599.0,63.0,2020-04-30
+Alameda,May,3362.0,104.0,2020-05-31
+Alameda,June,6067.0,135.0,2020-06-30
+Alameda,July,11441.0,182.0,2020-07-31
+Alameda,August,18148.0,257.0,2020-08-31
+Alameda,September,21271.0,412.0,2020-09-30
+Alameda,October,22546.0,442.0,2020-10-18
+Alpine,March,1.0,0.0,2020-03-31
+Alpine,April,1.0,0.0,2020-04-30
+Alpine,May,1.0,0.0,2020-05-31
+Alpine,June,1.0,0.0,2020-06-30
+Alpine,July,2.0,0.0,2020-07-31
+Alpine,August,2.0,0.0,2020-08-31
+Alpine,September,2.0,0.0,2020-09-30
+Alpine,October,3.0,0.0,2020-10-18
+Amador,March,1.0,0.0,2020-03-31
+Amador,April,8.0,0.0,2020-04-30
+Amador,May,10.0,0.0,2020-05-31
+Amador,June,21.0,0.0,2020-06-30
+Amador,July,98.0,0.0,2020-07-31
+Amador,August,243.0,14.0,2020-08-31
+Amador,September,294.0,16.0,2020-09-30
+Amador,October,313.0,16.0,2020-10-18
+Butte,March,6.0,0.0,2020-03-31
+Butte,April,16.0,0.0,2020-04-30
+Butte,May,51.0,0.0,2020-05-31
+Butte,June,177.0,2.0,2020-06-30
+Butte,July,925.0,7.0,2020-07-31
+Butte,August,2069.0,23.0,2020-08-31
+Butte,September,2858.0,45.0,2020-09-30
+Butte,October,3019.0,50.0,2020-10-18
+Calaveras,March,3.0,0.0,2020-03-31
+Calaveras,April,13.0,0.0,2020-04-30
+Calaveras,May,15.0,0.0,2020-05-31
+Calaveras,June,35.0,0.0,2020-06-30
+Calaveras,July,112.0,1.0,2020-07-31
+Calaveras,August,212.0,2.0,2020-08-31
+Calaveras,September,261.0,14.0,2020-09-30
+Calaveras,October,267.0,17.0,2020-10-18
+Colusa,March,1.0,0.0,2020-03-31
+Colusa,April,3.0,0.0,2020-04-30
+Colusa,May,5.0,0.0,2020-05-31
+Colusa,June,46.0,0.0,2020-06-30
+Colusa,July,319.0,4.0,2020-07-31
+Colusa,August,443.0,6.0,2020-08-31
+Colusa,September,534.0,6.0,2020-09-30
+Colusa,October,544.0,6.0,2020-10-18
+Contra Costa,March,246.0,3.0,2020-03-31
+Contra Costa,April,900.0,27.0,2020-04-30
+Contra Costa,May,1458.0,37.0,2020-05-31
+Contra Costa,June,3217.0,76.0,2020-06-30
+Contra Costa,July,7697.0,119.0,2020-07-31
+Contra Costa,August,13902.0,175.0,2020-08-31
+Contra Costa,September,16819.0,209.0,2020-09-30
+Contra Costa,October,18120.0,234.0,2020-10-18
+Del Norte,March,0.0,0.0,2020-03-31
+Del Norte,April,3.0,0.0,2020-04-30
+Del Norte,May,37.0,0.0,2020-05-31
+Del Norte,June,49.0,0.0,2020-06-30
+Del Norte,July,68.0,0.0,2020-07-31
+Del Norte,August,108.0,1.0,2020-08-31
+Del Norte,September,142.0,1.0,2020-09-30
+Del Norte,October,167.0,1.0,2020-10-18
+El Dorado,March,14.0,0.0,2020-03-31
+El Dorado,April,44.0,0.0,2020-04-30
+El Dorado,May,88.0,0.0,2020-05-31
+El Dorado,June,180.0,0.0,2020-06-30
+El Dorado,July,616.0,1.0,2020-07-31
+El Dorado,August,965.0,2.0,2020-08-31
+El Dorado,September,1157.0,4.0,2020-09-30
+El Dorado,October,1283.0,4.0,2020-10-18
+Fresno,March,59.0,0.0,2020-03-31
+Fresno,April,562.0,7.0,2020-04-30
+Fresno,May,1780.0,35.0,2020-05-31
+Fresno,June,5011.0,74.0,2020-06-30
+Fresno,July,15083.0,138.0,2020-07-31
+Fresno,August,25185.0,263.0,2020-08-31
+Fresno,September,28706.0,390.0,2020-09-30
+Fresno,October,30051.0,429.0,2020-10-18
+Glenn,March,2.0,0.0,2020-03-31
+Glenn,April,4.0,0.0,2020-04-30
+Glenn,May,16.0,0.0,2020-05-31
+Glenn,June,105.0,0.0,2020-06-30
+Glenn,July,304.0,1.0,2020-07-31
+Glenn,August,437.0,3.0,2020-08-31
+Glenn,September,592.0,3.0,2020-09-30
+Glenn,October,634.0,3.0,2020-10-18
+Humboldt,March,18.0,0.0,2020-03-31
+Humboldt,April,54.0,0.0,2020-04-30
+Humboldt,May,98.0,3.0,2020-05-31
+Humboldt,June,133.0,4.0,2020-06-30
+Humboldt,July,229.0,4.0,2020-07-31
+Humboldt,August,374.0,4.0,2020-08-31
+Humboldt,September,497.0,8.0,2020-09-30
+Humboldt,October,540.0,8.0,2020-10-18
+Imperial,March,17.0,0.0,2020-03-31
+Imperial,April,322.0,8.0,2020-04-30
+Imperial,May,2197.0,27.0,2020-05-31
+Imperial,June,6086.0,93.0,2020-06-30
+Imperial,July,7886.0,210.0,2020-07-31
+Imperial,August,9759.0,293.0,2020-08-31
+Imperial,September,10868.0,320.0,2020-09-30
+Imperial,October,11987.0,335.0,2020-10-18
+Inyo,March,8.0,0.0,2020-03-31
+Inyo,April,20.0,1.0,2020-04-30
+Inyo,May,20.0,1.0,2020-05-31
+Inyo,June,30.0,1.0,2020-06-30
+Inyo,July,45.0,1.0,2020-07-31
+Inyo,August,160.0,13.0,2020-08-31
+Inyo,September,189.0,15.0,2020-09-30
+Inyo,October,215.0,15.0,2020-10-18
+Kern,March,47.0,0.0,2020-03-31
+Kern,April,941.0,8.0,2020-04-30
+Kern,May,2300.0,38.0,2020-05-31
+Kern,June,4807.0,73.0,2020-06-30
+Kern,July,20061.0,140.0,2020-07-31
+Kern,August,29067.0,286.0,2020-08-31
+Kern,September,31601.0,370.0,2020-09-30
+Kern,October,32799.0,410.0,2020-10-18
+Kings,March,2.0,0.0,2020-03-31
+Kings,April,87.0,1.0,2020-04-30
+Kings,May,703.0,5.0,2020-05-31
+Kings,June,2344.0,30.0,2020-06-30
+Kings,July,3807.0,56.0,2020-07-31
+Kings,August,6037.0,72.0,2020-08-31
+Kings,September,7685.0,80.0,2020-09-30
+Kings,October,8159.0,83.0,2020-10-18
+Lake,March,0.0,0.0,2020-03-31
+Lake,April,6.0,0.0,2020-04-30
+Lake,May,19.0,0.0,2020-05-31
+Lake,June,68.0,0.0,2020-06-30
+Lake,July,191.0,1.0,2020-07-31
+Lake,August,341.0,4.0,2020-08-31
+Lake,September,567.0,11.0,2020-09-30
+Lake,October,670.0,15.0,2020-10-18
+Lassen,March,0.0,0.0,2020-03-31
+Lassen,April,0.0,0.0,2020-04-30
+Lassen,May,4.0,0.0,2020-05-31
+Lassen,June,216.0,0.0,2020-06-30
+Lassen,July,544.0,0.0,2020-07-31
+Lassen,August,706.0,0.0,2020-08-31
+Lassen,September,742.0,0.0,2020-09-30
+Lassen,October,757.0,1.0,2020-10-18
+Los Angeles,March,3001.0,53.0,2020-03-31
+Los Angeles,April,23284.0,1111.0,2020-04-30
+Los Angeles,May,54925.0,2362.0,2020-05-31
+Los Angeles,June,103640.0,3369.0,2020-06-30
+Los Angeles,July,188688.0,4621.0,2020-07-31
+Los Angeles,August,241793.0,5784.0,2020-08-31
+Los Angeles,September,270260.0,6576.0,2020-09-30
+Los Angeles,October,286187.0,6876.0,2020-10-18
+Madera,March,17.0,1.0,2020-03-31
+Madera,April,46.0,2.0,2020-04-30
+Madera,May,101.0,2.0,2020-05-31
+Madera,June,504.0,5.0,2020-06-30
+Madera,July,2036.0,30.0,2020-07-31
+Madera,August,3662.0,54.0,2020-08-31
+Madera,September,4477.0,65.0,2020-09-30
+Madera,October,4770.0,73.0,2020-10-18
+Marin,March,85.0,1.0,2020-03-31
+Marin,April,240.0,13.0,2020-04-30
+Marin,May,486.0,14.0,2020-05-31
+Marin,June,1628.0,18.0,2020-06-30
+Marin,July,4885.0,70.0,2020-07-31
+Marin,August,6074.0,96.0,2020-08-31
+Marin,September,6700.0,119.0,2020-09-30
+Marin,October,6969.0,124.0,2020-10-18
+Mariposa,March,0.0,0.0,2020-03-31
+Mariposa,April,3.0,0.0,2020-04-30
+Mariposa,May,16.0,1.0,2020-05-31
+Mariposa,June,28.0,1.0,2020-06-30
+Mariposa,July,49.0,2.0,2020-07-31
+Mariposa,August,69.0,2.0,2020-08-31
+Mariposa,September,76.0,2.0,2020-09-30
+Mariposa,October,77.0,2.0,2020-10-18
+Mendocino,March,4.0,0.0,2020-03-31
+Mendocino,April,11.0,0.0,2020-04-30
+Mendocino,May,25.0,0.0,2020-05-31
+Mendocino,June,68.0,0.0,2020-06-30
+Mendocino,July,232.0,9.0,2020-07-31
+Mendocino,August,618.0,17.0,2020-08-31
+Mendocino,September,867.0,18.0,2020-09-30
+Mendocino,October,988.0,21.0,2020-10-18
+Merced,March,6.0,0.0,2020-03-31
+Merced,April,122.0,3.0,2020-04-30
+Merced,May,288.0,7.0,2020-05-31
+Merced,June,1023.0,11.0,2020-06-30
+Merced,July,3789.0,50.0,2020-07-31
+Merced,August,7991.0,117.0,2020-08-31
+Merced,September,8926.0,145.0,2020-09-30
+Merced,October,9292.0,152.0,2020-10-18
+Modoc,March,0.0,0.0,2020-03-31
+Modoc,April,0.0,0.0,2020-04-30
+Modoc,May,1.0,0.0,2020-05-31
+Modoc,June,0.0,0.0,2020-06-30
+Modoc,July,0.0,0.0,2020-07-31
+Modoc,August,10.0,0.0,2020-08-31
+Modoc,September,26.0,0.0,2020-09-30
+Modoc,October,28.0,0.0,2020-10-18
+Mono,March,12.0,0.0,2020-03-31
+Mono,April,25.0,1.0,2020-04-30
+Mono,May,34.0,1.0,2020-05-31
+Mono,June,36.0,1.0,2020-06-30
+Mono,July,104.0,1.0,2020-07-31
+Mono,August,145.0,2.0,2020-08-31
+Mono,September,150.0,2.0,2020-09-30
+Mono,October,155.0,2.0,2020-10-18
+Monterey,March,43.0,2.0,2020-03-31
+Monterey,April,213.0,5.0,2020-04-30
+Monterey,May,545.0,10.0,2020-05-31
+Monterey,June,1687.0,15.0,2020-06-30
+Monterey,July,4493.0,26.0,2020-07-31
+Monterey,August,7839.0,58.0,2020-08-31
+Monterey,September,9898.0,73.0,2020-09-30
+Monterey,October,10872.0,83.0,2020-10-18
+Napa,March,9.0,0.0,2020-03-31
+Napa,April,69.0,2.0,2020-04-30
+Napa,May,114.0,3.0,2020-05-31
+Napa,June,345.0,4.0,2020-06-30
+Napa,July,897.0,8.0,2020-07-31
+Napa,August,1434.0,13.0,2020-08-31
+Napa,September,1728.0,13.0,2020-09-30
+Napa,October,1882.0,14.0,2020-10-18
+Nevada,March,15.0,0.0,2020-03-31
+Nevada,April,41.0,1.0,2020-04-30
+Nevada,May,41.0,1.0,2020-05-31
+Nevada,June,114.0,1.0,2020-06-30
+Nevada,July,302.0,1.0,2020-07-31
+Nevada,August,447.0,5.0,2020-08-31
+Nevada,September,540.0,7.0,2020-09-30
+Nevada,October,582.0,8.0,2020-10-18
+Orange,March,506.0,7.0,2020-03-31
+Orange,April,2591.0,46.0,2020-04-30
+Orange,May,6532.0,147.0,2020-05-31
+Orange,June,15201.0,340.0,2020-06-30
+Orange,July,36196.0,618.0,2020-07-31
+Orange,August,47392.0,980.0,2020-08-31
+Orange,September,52916.0,1268.0,2020-09-30
+Orange,October,56394.0,1409.0,2020-10-18
+Placer,March,49.0,2.0,2020-03-31
+Placer,April,148.0,8.0,2020-04-30
+Placer,May,215.0,9.0,2020-05-31
+Placer,June,697.0,11.0,2020-06-30
+Placer,July,1853.0,15.0,2020-07-31
+Placer,August,2989.0,33.0,2020-08-31
+Placer,September,3585.0,48.0,2020-09-30
+Placer,October,3938.0,52.0,2020-10-18
+Plumas,March,1.0,0.0,2020-03-31
+Plumas,April,4.0,0.0,2020-04-30
+Plumas,May,5.0,0.0,2020-05-31
+Plumas,June,8.0,0.0,2020-06-30
+Plumas,July,25.0,0.0,2020-07-31
+Plumas,August,39.0,0.0,2020-08-31
+Plumas,September,48.0,0.0,2020-09-30
+Plumas,October,52.0,0.0,2020-10-18
+Riverside,March,284.0,8.0,2020-03-31
+Riverside,April,3820.0,156.0,2020-04-30
+Riverside,May,7704.0,344.0,2020-05-31
+Riverside,June,19226.0,457.0,2020-06-30
+Riverside,July,37612.0,695.0,2020-07-31
+Riverside,August,52508.0,1019.0,2020-08-31
+Riverside,September,59074.0,1226.0,2020-09-30
+Riverside,October,63765.0,1269.0,2020-10-18
+Sacramento,March,271.0,8.0,2020-03-31
+Sacramento,April,1071.0,43.0,2020-04-30
+Sacramento,May,1398.0,57.0,2020-05-31
+Sacramento,June,3362.0,68.0,2020-06-30
+Sacramento,July,9872.0,133.0,2020-07-31
+Sacramento,August,17999.0,293.0,2020-08-31
+Sacramento,September,22613.0,416.0,2020-09-30
+Sacramento,October,24425.0,468.0,2020-10-18
+San Benito,March,14.0,1.0,2020-03-31
+San Benito,April,48.0,2.0,2020-04-30
+San Benito,May,85.0,2.0,2020-05-31
+San Benito,June,212.0,2.0,2020-06-30
+San Benito,July,567.0,4.0,2020-07-31
+San Benito,August,1080.0,8.0,2020-08-31
+San Benito,September,1342.0,11.0,2020-09-30
+San Benito,October,1395.0,14.0,2020-10-18
+San Bernardino,March,193.0,5.0,2020-03-31
+San Bernardino,April,2020.0,96.0,2020-04-30
+San Bernardino,May,5185.0,204.0,2020-05-31
+San Bernardino,June,12593.0,253.0,2020-06-30
+San Bernardino,July,32332.0,419.0,2020-07-31
+San Bernardino,August,47370.0,716.0,2020-08-31
+San Bernardino,September,53988.0,955.0,2020-09-30
+San Bernardino,October,58893.0,1021.0,2020-10-18
+San Diego,March,736.0,9.0,2020-03-31
+San Diego,April,3566.0,143.0,2020-04-30
+San Diego,May,7483.0,312.0,2020-05-31
+San Diego,June,14150.0,365.0,2020-06-30
+San Diego,July,29050.0,561.0,2020-07-31
+San Diego,August,38606.0,682.0,2020-08-31
+San Diego,September,47182.0,783.0,2020-09-30
+San Diego,October,52359.0,853.0,2020-10-18
+San Francisco,March,404.0,5.0,2020-03-31
+San Francisco,April,1518.0,26.0,2020-04-30
+San Francisco,May,2501.0,42.0,2020-05-31
+San Francisco,June,3601.0,50.0,2020-06-30
+San Francisco,July,6126.0,59.0,2020-07-31
+San Francisco,August,9294.0,83.0,2020-08-31
+San Francisco,September,11247.0,104.0,2020-09-30
+San Francisco,October,11878.0,133.0,2020-10-18
+San Joaquin,March,122.0,7.0,2020-03-31
+San Joaquin,April,548.0,25.0,2020-04-30
+San Joaquin,May,888.0,35.0,2020-05-31
+San Joaquin,June,3903.0,52.0,2020-06-30
+San Joaquin,July,11561.0,168.0,2020-07-31
+San Joaquin,August,17807.0,328.0,2020-08-31
+San Joaquin,September,20150.0,456.0,2020-09-30
+San Joaquin,October,20932.0,484.0,2020-10-18
+San Luis Obispo,March,67.0,0.0,2020-03-31
+San Luis Obispo,April,182.0,1.0,2020-04-30
+San Luis Obispo,May,271.0,1.0,2020-05-31
+San Luis Obispo,June,603.0,1.0,2020-06-30
+San Luis Obispo,July,1746.0,15.0,2020-07-31
+San Luis Obispo,August,2951.0,21.0,2020-08-31
+San Luis Obispo,September,3597.0,31.0,2020-09-30
+San Luis Obispo,October,4009.0,32.0,2020-10-18
+San Mateo,March,297.0,12.0,2020-03-31
+San Mateo,April,1194.0,52.0,2020-04-30
+San Mateo,May,2169.0,84.0,2020-05-31
+San Mateo,June,3306.0,108.0,2020-06-30
+San Mateo,July,5416.0,119.0,2020-07-31
+San Mateo,August,8065.0,131.0,2020-08-31
+San Mateo,September,9634.0,150.0,2020-09-30
+San Mateo,October,10503.0,157.0,2020-10-18
+Santa Barbara,March,89.0,0.0,2020-03-31
+Santa Barbara,April,490.0,8.0,2020-04-30
+Santa Barbara,May,1662.0,12.0,2020-05-31
+Santa Barbara,June,3210.0,29.0,2020-06-30
+Santa Barbara,July,6375.0,60.0,2020-07-31
+Santa Barbara,August,8124.0,93.0,2020-08-31
+Santa Barbara,September,9186.0,114.0,2020-09-30
+Santa Barbara,October,9608.0,119.0,2020-10-18
+Santa Clara,March,777.0,31.0,2020-03-31
+Santa Clara,April,2172.0,111.0,2020-04-30
+Santa Clara,May,2785.0,144.0,2020-05-31
+Santa Clara,June,4476.0,157.0,2020-06-30
+Santa Clara,July,9863.0,191.0,2020-07-31
+Santa Clara,August,17211.0,245.0,2020-08-31
+Santa Clara,September,21318.0,322.0,2020-09-30
+Santa Clara,October,23169.0,373.0,2020-10-18
+Santa Cruz,March,40.0,1.0,2020-03-31
+Santa Cruz,April,126.0,2.0,2020-04-30
+Santa Cruz,May,210.0,3.0,2020-05-31
+Santa Cruz,June,391.0,3.0,2020-06-30
+Santa Cruz,July,1118.0,4.0,2020-07-31
+Santa Cruz,August,1747.0,7.0,2020-08-31
+Santa Cruz,September,2405.0,12.0,2020-09-30
+Santa Cruz,October,2692.0,23.0,2020-10-18
+Shasta,March,5.0,1.0,2020-03-31
+Shasta,April,31.0,4.0,2020-04-30
+Shasta,May,38.0,4.0,2020-05-31
+Shasta,June,103.0,5.0,2020-06-30
+Shasta,July,306.0,9.0,2020-07-31
+Shasta,August,528.0,12.0,2020-08-31
+Shasta,September,976.0,20.0,2020-09-30
+Shasta,October,1708.0,29.0,2020-10-18
+Sierra,March,0.0,0.0,2020-03-31
+Sierra,April,0.0,0.0,2020-04-30
+Sierra,May,1.0,0.0,2020-05-31
+Sierra,June,1.0,0.0,2020-06-30
+Sierra,July,1.0,0.0,2020-07-31
+Sierra,August,6.0,0.0,2020-08-31
+Sierra,September,6.0,0.0,2020-09-30
+Sierra,October,6.0,0.0,2020-10-18
+Siskiyou,March,3.0,0.0,2020-03-31
+Siskiyou,April,5.0,0.0,2020-04-30
+Siskiyou,May,7.0,0.0,2020-05-31
+Siskiyou,June,27.0,0.0,2020-06-30
+Siskiyou,July,61.0,0.0,2020-07-31
+Siskiyou,August,127.0,0.0,2020-08-31
+Siskiyou,September,150.0,0.0,2020-09-30
+Siskiyou,October,167.0,0.0,2020-10-18
+Solano,March,56.0,0.0,2020-03-31
+Solano,April,262.0,5.0,2020-04-30
+Solano,May,512.0,22.0,2020-05-31
+Solano,June,1317.0,24.0,2020-06-30
+Solano,July,3510.0,37.0,2020-07-31
+Solano,August,5303.0,47.0,2020-08-31
+Solano,September,6315.0,71.0,2020-09-30
+Solano,October,6962.0,74.0,2020-10-18
+Sonoma,March,58.0,1.0,2020-03-31
+Sonoma,April,233.0,3.0,2020-04-30
+Sonoma,May,555.0,5.0,2020-05-31
+Sonoma,June,1159.0,7.0,2020-06-30
+Sonoma,July,2745.0,32.0,2020-07-31
+Sonoma,August,5650.0,80.0,2020-08-31
+Sonoma,September,7494.0,122.0,2020-09-30
+Sonoma,October,8781.0,129.0,2020-10-18
+Stanislaus,March,28.0,0.0,2020-03-31
+Stanislaus,April,378.0,11.0,2020-04-30
+Stanislaus,May,738.0,29.0,2020-05-31
+Stanislaus,June,2605.0,44.0,2020-06-30
+Stanislaus,July,9061.0,104.0,2020-07-31
+Stanislaus,August,14685.0,258.0,2020-08-31
+Stanislaus,September,16531.0,359.0,2020-09-30
+Stanislaus,October,17290.0,391.0,2020-10-18
+Sutter,March,8.0,0.0,2020-03-31
+Sutter,April,28.0,2.0,2020-04-30
+Sutter,May,42.0,2.0,2020-05-31
+Sutter,June,181.0,3.0,2020-06-30
+Sutter,July,714.0,6.0,2020-07-31
+Sutter,August,1365.0,10.0,2020-08-31
+Sutter,September,1680.0,11.0,2020-09-30
+Sutter,October,1764.0,12.0,2020-10-18
+Tehama,March,0.0,0.0,2020-03-31
+Tehama,April,1.0,1.0,2020-04-30
+Tehama,May,4.0,1.0,2020-05-31
+Tehama,June,78.0,1.0,2020-06-30
+Tehama,July,213.0,1.0,2020-07-31
+Tehama,August,421.0,1.0,2020-08-31
+Tehama,September,594.0,5.0,2020-09-30
+Tehama,October,774.0,8.0,2020-10-18
+Trinity,March,0.0,0.0,2020-03-31
+Trinity,April,0.0,0.0,2020-04-30
+Trinity,May,2.0,0.0,2020-05-31
+Trinity,June,2.0,0.0,2020-06-30
+Trinity,July,5.0,0.0,2020-07-31
+Trinity,August,13.0,0.0,2020-08-31
+Trinity,September,16.0,0.0,2020-09-30
+Trinity,October,25.0,0.0,2020-10-18
+Tulare,March,42.0,1.0,2020-03-31
+Tulare,April,637.0,40.0,2020-04-30
+Tulare,May,1884.0,84.0,2020-05-31
+Tulare,June,4306.0,126.0,2020-06-30
+Tulare,July,9365.0,178.0,2020-07-31
+Tulare,August,13985.0,232.0,2020-08-31
+Tulare,September,16117.0,263.0,2020-09-30
+Tulare,October,17048.0,275.0,2020-10-18
+Tuolumne,March,1.0,0.0,2020-03-31
+Tuolumne,April,4.0,0.0,2020-04-30
+Tuolumne,May,4.0,0.0,2020-05-31
+Tuolumne,June,16.0,0.0,2020-06-30
+Tuolumne,July,120.0,2.0,2020-07-31
+Tuolumne,August,178.0,2.0,2020-08-31
+Tuolumne,September,225.0,4.0,2020-09-30
+Tuolumne,October,245.0,4.0,2020-10-18
+Ventura,March,143.0,4.0,2020-03-31
+Ventura,April,547.0,18.0,2020-04-30
+Ventura,May,1151.0,33.0,2020-05-31
+Ventura,June,3156.0,46.0,2020-06-30
+Ventura,July,7521.0,76.0,2020-07-31
+Ventura,August,10866.0,116.0,2020-08-31
+Ventura,September,12968.0,150.0,2020-09-30
+Ventura,October,13901.0,160.0,2020-10-18
+Yolo,March,21.0,1.0,2020-03-31
+Yolo,April,164.0,16.0,2020-04-30
+Yolo,May,211.0,24.0,2020-05-31
+Yolo,June,522.0,24.0,2020-06-30
+Yolo,July,1522.0,41.0,2020-07-31
+Yolo,August,2423.0,52.0,2020-08-31
+Yolo,September,2822.0,55.0,2020-09-30
+Yolo,October,3059.0,56.0,2020-10-18
+Yuba,March,5.0,0.0,2020-03-31
+Yuba,April,15.0,1.0,2020-04-30
+Yuba,May,26.0,1.0,2020-05-31
+Yuba,June,56.0,4.0,2020-06-30
+Yuba,July,369.0,4.0,2020-07-31
+Yuba,August,832.0,6.0,2020-08-31
+Yuba,September,1075.0,8.0,2020-09-30
+Yuba,October,1176.0,10.0,2020-10-18
