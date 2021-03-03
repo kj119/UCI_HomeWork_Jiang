@@ -2,7 +2,7 @@ import os
 import csv
 import sys
 
-budget_csv = os.path.join(r"..\..\uci-irv-data-pt-08-2020-u-c\02-Homework\03-Python\Instructions\PyBank\Resources\budget_data.csv")
+budget_csv = os.path.join(r"Resources\budget_data.csv")
 
 with open(budget_csv, "r") as csvfile:
     csv_reader = csv.reader(csvfile, delimiter = ",")
